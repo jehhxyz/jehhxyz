@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, sou Jessica! 👋
 
-<!--
-**jehhxyz/jehhxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas com foco em **Java**, **Spring Boot** e **MySQL**.
 
-Here are some ideas to get you started:
+🌱 Estou desenvolvendo habilidades em:
+- Desenvolvimento Full Stack
+- Programação em Java e Spring Boot
+- Criação de APIs RESTful
+- Banco de Dados (MySQL)
+- Front-End com HTML, CSS e JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Trabalhando em projetos relacionados a **Gestão de Eventos** e outras aplicações que buscam melhorar processos e soluções tecnológicas.
+
+📫 **Contato**: jessicanesilva.14@gmail.com
+
+⚡ **Interesses**: Gosto de explorar novas ferramentas e tecnologias, além de me aprofundar em novos desafios de programação e desenvolvimento.
