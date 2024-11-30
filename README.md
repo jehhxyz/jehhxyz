@@ -3,11 +3,10 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas com foco em **Java**, **Spring Boot** e **MySQL**.
 
 🌱 Estou desenvolvendo habilidades em:
-- Desenvolvimento Full Stack
-- Programação em Java e Spring Boot
-- Criação de APIs RESTful
-- Banco de Dados (MySQL)
-- Front-End com HTML, CSS e JavaScript
+- Desenvolvimento Full Stack;
+- Programação em Java e Spring Boot;
+- Banco de Dados (MySQL);
+- Front-End com HTML, CSS e JavaScript.
 
 🔧 Trabalhando em projetos relacionados a **Gestão de Eventos** e outras aplicações que buscam melhorar processos e soluções tecnológicas.
 
