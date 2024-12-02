@@ -8,7 +8,7 @@
 - Banco de Dados (MySQL);
 - Front-End com HTML, CSS e JavaScript.
 
-🔧 Trabalhando em projetos relacionados a **Gestão de Eventos** e outras aplicações que buscam melhorar processos e soluções tecnológicas.
+🔧 Trabalhando em projetos relacionados a **Gestão de Eventos, Clínica** e outras aplicações que buscam melhorar processos e soluções tecnológicas.
 
 📫 **Contato**: jessicanesilva.14@gmail.com
 
